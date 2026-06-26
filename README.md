@@ -1,2 +1,2 @@
 # PaAC-Open-Project
-This repo consists of the programs that I coded during the project. This repo consists of the programs that I coded during the project. This project was titled 'MCMC Analysis of Physical Systems' and was a part of Open Projects offered by PaAC, IIT Roorkee. It was a 10 week project (15th December, 2025 - 15th March, 2026).
+This repo consists of the programs that I coded during the project. This project was titled 'MCMC Analysis of Physical Systems' and was a part of Open Projects offered by PaAC, IIT Roorkee. It was a self-paced 10 week project (15th December, 2025 - 15th March, 2026) during which I came across the Monte Carlo Method of estimating probabilities and applying it on various Physical Systems.
